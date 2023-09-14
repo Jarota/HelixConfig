@@ -3,6 +3,7 @@ theme="tomorrow_night"
 [editor]
 line-number="relative"
 color-modes=true
+true-color=true
 
 [editor.cursor-shape]
 insert = "bar"
