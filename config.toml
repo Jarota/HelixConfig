@@ -10,5 +10,5 @@ insert = "bar"
 normal = "block"
 select = "underline"
 
-[editor.filepicker]
+[editor.file-picker]
 hidden = false

@@ -1,3 +1,8 @@
 [[language]]
 name = "go"
 auto-format = true
+
+[[language]]
+name = "haskell"
+file-types = ["hs"]
+indent = { tab-width = 4, unit = " " }
